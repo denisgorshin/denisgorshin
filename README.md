@@ -1,16 +1,16 @@
-## Hi there 👋
+## Skills
 
-<!--
-**denisgorshin/denisgorshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category        | Skills |
+|---------------|------------------------------|
+| **Testing**   | Theory, test design techniques |
+| **Documentation** | Test cases, checklists, bug reports |
+| **Networks**  | HTTP, Client-server architecture, OSI model |
+| **Tools**     | Chrome DevTools, Swagger, Postman |
+| **CI tools**  | Git |
+| **Relational DB** | SQL |
+| **Issue trackers** | Jira, TestRail |
+| **Methodologies** | Agile, Scrum, Kanban |
+| **Data formats** | JSON |
+| **Web** | HTML, CSS, Cache, Cookie, Local storage |
+| **Languages** | English, Ukrainian |
